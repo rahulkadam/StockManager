@@ -5,6 +5,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# ignoring some more file of project
+node
+node_modules
+target
+build
+.idea
 # Runtime data
 pids
 *.pid
